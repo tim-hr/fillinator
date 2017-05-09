@@ -1,0 +1,17 @@
+table {
+  border: 1px solid black;
+  border-collapse: collapse;
+  width: 500px;
+  height: 500px;
+}
+
+button, label {
+  margin-right: 10px;
+}
+
+td {
+  border: 1px solid #ddd;
+  width: 1px;
+  height: 1px;
+}
+
